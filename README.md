@@ -28,7 +28,7 @@ A fun and interactive desktop arcade game built with **Python Tkinter** where yo
 
 1. **Download or clone** this repository.
 
-git clone https://github.com/your-username/egg-catcher-deluxe.git
+git clone https://github.com/KaviyaSathasivam/egg-catcher-deluxe.git
 cd egg-catcher-deluxe
 Run the game:
 python egg_catcher_deluxe.py
